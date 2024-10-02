@@ -1,0 +1,10 @@
+body {
+  background: rgb(173, 135, 135);
+  font-family: cursive;
+  color: rgb(11, 54, 120);
+
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin: 100vh;
+}
